@@ -3155,7 +3155,8 @@ body {
   background-image: url("../images/Sunset_bg.png");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position-y: 80%;
+  /*background-position-y: 80%;*/
+  background-position: 0 80%;
 }
 
 .wrapper:after {
