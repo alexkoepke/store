@@ -3155,6 +3155,7 @@ body {
   background-image: url("../images/afternoon_bg.png");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position-y: 80%;
 }
 
 .wrapper:after {
