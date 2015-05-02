@@ -3663,7 +3663,7 @@ a.skip-link {
 
 @media only screen and (min-width: 771px) {
   #header-search {
-    display: block;
+    display: none;
     position: absolute;
     top: 55px;
     right: 0;
