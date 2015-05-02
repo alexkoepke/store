@@ -4278,6 +4278,7 @@ p.product-name a:hover {
 .products-grid .product-image img {
   width: 100%;
   height: auto;
+  background-color: rgba(255, 255, 255, 0.25);
 }
 .products-grid .product-image img:hidden {
   display: none;
