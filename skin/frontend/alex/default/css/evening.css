@@ -3261,7 +3261,7 @@ body {
 
 .logo h1 {
   margin-bottom: 5px;
-  color: #CBA650;
+  color: #FFFFFF;
   font-weight: 600;
   text-align: left;
 }
@@ -3332,7 +3332,7 @@ a.logo:hover {
 
 a.skip-link {
   text-decoration: none;
-  background-color: #CBA650;
+  background-color: #483B54;
   font-weight: 500;
   color: white;
 }
@@ -3451,7 +3451,7 @@ a.skip-link {
   a.skip-link {
     height: 55px;
     padding-top: 3.25px;
-    border-bottom: 10px solid #9C5A41;
+    border-bottom: 10px solid #332A42;
   }
 }
 
@@ -3532,7 +3532,7 @@ a.skip-link {
   text-decoration: none;
   position: relative;
   display: block;
-  color: #CBA650;
+  color: #FFFFFF;
   line-height: 30px;
   font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
 }
