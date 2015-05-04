@@ -3315,6 +3315,7 @@ body {
 
 a.skip-link {
   text-decoration: none;
+  background-color: #CB7857;
 }
 
 .skip-link:not(.skip-active):hover {
