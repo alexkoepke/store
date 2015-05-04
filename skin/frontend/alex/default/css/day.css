@@ -10656,8 +10656,9 @@ div.calendar table td.button {
   .skip-account .icon,
   .skip-cart .icon { display: none; }
 }
-@media only screen and (min-width: 1280px) {
+
+@media only screen and (min-width: 1800px) {
   .page-header-container {
-    width: 74.25%;
+    width: 75.25%;
   }
 }
