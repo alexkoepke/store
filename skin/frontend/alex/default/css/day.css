@@ -5005,7 +5005,7 @@ p.product-name a:hover {
 }
 .product-view .product-shop .product-name .h1,
 .product-view .product-img-box .product-name h1 {
-  color: #3399cc;
+  color: #fff;
   margin-bottom: 10px;
   border: 0;
 }

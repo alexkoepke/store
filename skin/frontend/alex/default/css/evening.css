@@ -638,8 +638,8 @@ h6, .h6 {
 .product-name .h1 {
   text-transform: uppercase;
   font-size: 24px;
-  font-weight: 600;
-  color: #FFFFFF;
+  font-weight: 400;
+  color: #fff;
   border-bottom: 1px solid #ededed;
   padding-bottom: 3px;
   margin-bottom: 15px;
@@ -3173,9 +3173,9 @@ body {
     max-width: 100%;
     margin: 0 auto;
     padding: 0 30px;
-    background-color: #F6D0A3;
+    background-color: #7C0735;
     height: 55px;
-    border-bottom: 10px solid #F5B382;
+    border-bottom: 10px solid #61063B;
   }
 
   .page-header-container {
@@ -3261,7 +3261,7 @@ body {
 
 .logo h1 {
   margin-bottom: 5px;
-  color: #AD5D3C;
+  color: #CBA650;
   font-weight: 600;
   text-align: left;
 }
@@ -3332,7 +3332,7 @@ a.logo:hover {
 
 a.skip-link {
   text-decoration: none;
-  background-color: #CB7857;
+  background-color: #CBA650;
   font-weight: 500;
   color: white;
 }
@@ -3451,7 +3451,7 @@ a.skip-link {
   a.skip-link {
     height: 55px;
     padding-top: 3.25px;
-    border-bottom: 10px solid #AD5D3C;
+    border-bottom: 10px solid #9C5A41;
   }
 }
 
@@ -3532,7 +3532,7 @@ a.skip-link {
   text-decoration: none;
   position: relative;
   display: block;
-  color: #FFFFFF;
+  color: #CBA650;
   line-height: 30px;
   font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
 }
@@ -10650,4 +10650,19 @@ div.calendar table td.button {
   background: inherit;
   color: inherit;
   text-transform: none;
+}
+
+@media only screen and (min-width: 771px) {
+  .skip-account .icon,
+  .skip-cart .icon { display: none; }
+}
+
+@media only screen and (min-width: 1800px) {
+  .page-header-container {
+    width: 75.25%;
+  }
+}
+
+.page-header-container {
+  margin: 0 auto;
 }

@@ -638,7 +638,7 @@ h6, .h6 {
 .product-name .h1 {
   text-transform: uppercase;
   font-size: 24px;
-  font-weight: 600;
+  font-weight: 400;
   color: #FFFFFF;
   border-bottom: 1px solid #ededed;
   padding-bottom: 3px;
@@ -10650,4 +10650,19 @@ div.calendar table td.button {
   background: inherit;
   color: inherit;
   text-transform: none;
+}
+
+@media only screen and (min-width: 771px) {
+  .skip-account .icon,
+  .skip-cart .icon { display: none; }
+}
+
+@media only screen and (min-width: 1800px) {
+  .page-header-container {
+    width: 75.25%;
+  }
+}
+
+.page-header-container {
+  margin: 0 auto;
 }
