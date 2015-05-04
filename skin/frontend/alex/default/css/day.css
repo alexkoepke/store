@@ -10662,3 +10662,7 @@ div.calendar table td.button {
     width: 75.25%;
   }
 }
+
+.page-header-container {
+  margin: 0 auto;
+}
