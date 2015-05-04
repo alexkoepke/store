@@ -549,7 +549,7 @@ h2, .h2 {
 h3, .h3 {
   margin: 0;
   margin-bottom: 10px;
-  color: #636363;
+  color: #fff;
   font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
   font-size: 18px;
   font-weight: 400;
@@ -638,8 +638,8 @@ h6, .h6 {
 .product-name .h1 {
   text-transform: uppercase;
   font-size: 24px;
-  font-weight: 600;
-  color: #636363;
+  font-weight: 400;
+  color: #fff;
   border-bottom: 1px solid #ededed;
   padding-bottom: 3px;
   margin-bottom: 15px;
@@ -3173,9 +3173,9 @@ body {
     max-width: 100%;
     margin: 0 auto;
     padding: 0 30px;
-    background-color: #F6D0A3;
+    background-color: #FFF;
     height: 55px;
-    border-bottom: 10px solid #F5B382;
+    border-bottom: 10px solid #D5D5D5;
   }
 
   .page-header-container {
@@ -3261,7 +3261,7 @@ body {
 
 .logo h1 {
   margin-bottom: 5px;
-  color: #AD5D3C;
+  color: #000;
   font-weight: 600;
   text-align: left;
 }
@@ -3332,7 +3332,7 @@ a.logo:hover {
 
 a.skip-link {
   text-decoration: none;
-  background-color: #CB7857;
+  background-color: #7097BE;
   font-weight: 500;
   color: white;
 }
@@ -3451,7 +3451,7 @@ a.skip-link {
   a.skip-link {
     height: 55px;
     padding-top: 3.25px;
-    border-bottom: 10px solid #AD5D3C;
+    border-bottom: 10px solid #A5C8EB;
   }
 }
 
@@ -4290,6 +4290,7 @@ p.product-name a:hover {
 .products-grid .product-name a,
 .products-list .product-name a {
   font-weight: 500;
+  color: #000;
 }
 
 /* ============================================ *
