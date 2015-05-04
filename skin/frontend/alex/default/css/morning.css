@@ -3426,7 +3426,7 @@ a.skip-link {
   }
 }
 .account-cart-wrapper {
-  /*position: absolute;*/
+  position: absolute;
   top: 0px;
   right: 0px;
 }
@@ -3440,6 +3440,7 @@ a.skip-link {
     height: 55px;
     padding-top: 3.25px;
     border-bottom: 10px solid #AD5D3C;
+  }
 }
 
 @media only screen and (max-width: 770px) {
