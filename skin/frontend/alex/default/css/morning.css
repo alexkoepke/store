@@ -3484,6 +3484,11 @@ a.skip-link {
   .nav-primary {
     display: block;
     margin-top: 15px;
+    height: 55px;
+  }
+  .nav-primary li.level0 > a {
+    text-transform: uppercase;
+    padding-top: 10px;
   }
 }
 /* ============================================ *
