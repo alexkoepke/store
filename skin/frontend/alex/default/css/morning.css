@@ -3261,7 +3261,7 @@ body {
 
 .logo h1 {
   margin-bottom: 5px;
-  color: #F5B382;
+  color: #AD5D3C;
   font-weight: 600;
   text-align: left;
   opacity: 0.8;
@@ -3272,6 +3272,7 @@ body {
   color: #AD5D3C;
   font-weight: 600;
   text-align: left;
+  text-decoration: none;
 }
 
 .logo img {
