@@ -3474,6 +3474,7 @@ a.skip-link {
     position: absolute;
     top: 0px;
     right: 222px;
+    border-bottom: none;
   }
 }
 /* ============================================ *
