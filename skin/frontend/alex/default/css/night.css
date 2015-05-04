@@ -3170,13 +3170,17 @@ body {
  * ============================================ */
 @media only screen and (min-width: 771px) {
   .page-header {
-    max-width: 1260px;
+    max-width: 100%;
     margin: 0 auto;
     padding: 0 30px;
+    background-color: #F6D0A3;
+    height: 55px;
+    border-bottom: 10px solid #F5B382;
   }
 
   .page-header-container {
     position: relative;
+    height: 55px;
   }
 }
 .header-language-container,
@@ -3254,6 +3258,23 @@ body {
   text-align: center;
   padding: 10px;
 }
+
+.logo h1 {
+  margin-bottom: 5px;
+  color: #AD5D3C;
+  font-weight: 600;
+  text-align: left;
+}
+
+a.logo:hover {
+  margin-bottom: 5px;
+  color: #AD5D3C;
+  font-weight: 600;
+  text-align: left;
+  opacity: 0.8;
+  text-decoration: none;
+}
+
 .logo img {
   max-width: 100%;
 }
@@ -3271,7 +3292,7 @@ body {
 @media only screen and (min-width: 771px) {
   .logo {
     max-width: 300px;
-    min-height: 90px;
+    height: 55px;
   }
   .logo .small {
     display: none;
@@ -3311,6 +3332,9 @@ body {
 
 a.skip-link {
   text-decoration: none;
+  background-color: #CB7857;
+  font-weight: 500;
+  color: white;
 }
 
 .skip-link:not(.skip-active):hover {
@@ -3418,6 +3442,19 @@ a.skip-link {
   top: 0px;
   right: 0px;
 }
+
+@media only screen and (min-width: 771px) {
+  .account-cart-wrapper {
+  height: 55px;
+  }
+
+  a.skip-link {
+    height: 55px;
+    padding-top: 3.25px;
+    border-bottom: 10px solid #AD5D3C;
+  }
+}
+
 @media only screen and (max-width: 770px) {
   .account-cart-wrapper {
     position: static;
@@ -3467,7 +3504,10 @@ a.skip-link {
   #header-nav {
     display: block;
     /* Force visibility */
-    border-bottom: 1px solid #ededed;
+    position: absolute;
+    top: 0px;
+    right: 222px;
+    border-bottom: none;
   }
 }
 /* ============================================ *
@@ -3476,7 +3516,13 @@ a.skip-link {
 @media only screen and (min-width: 771px) {
   .nav-primary {
     display: block;
-    margin-top: 15px;
+    margin-top: 0px;
+    height: 55px;
+  }
+  .nav-primary li.level0 > a {
+    text-transform: uppercase;
+    padding-top: 10px;
+    font-weight: 500;
   }
 }
 /* ============================================ *
