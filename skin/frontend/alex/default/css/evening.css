@@ -3173,9 +3173,9 @@ body {
     max-width: 100%;
     margin: 0 auto;
     padding: 0 30px;
-    background-color: #7C0735;
+    background-color: #F6D0A3;
     height: 55px;
-    border-bottom: 10px solid #61063B;
+    border-bottom: 10px solid #F5B382;
   }
 
   .page-header-container {
@@ -3261,7 +3261,7 @@ body {
 
 .logo h1 {
   margin-bottom: 5px;
-  color: #FFFFFF;
+  color: #AD5D3C;
   font-weight: 600;
   text-align: left;
 }
@@ -3332,7 +3332,7 @@ a.logo:hover {
 
 a.skip-link {
   text-decoration: none;
-  background-color: #483B54;
+  background-color: #CB7857;
   font-weight: 500;
   color: white;
 }
@@ -3451,7 +3451,7 @@ a.skip-link {
   a.skip-link {
     height: 55px;
     padding-top: 3.25px;
-    border-bottom: 10px solid #332A42;
+    border-bottom: 10px solid #AD5D3C;
   }
 }
 
