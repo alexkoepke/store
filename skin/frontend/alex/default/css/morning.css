@@ -3258,7 +3258,13 @@ body {
   text-align: center;
   padding: 10px;
 }
-.logo h1 {margin-bottom: 0px;}
+
+.logo h1 {
+  margin-bottom: 5px;
+  color: #F5B382;
+  font-weight: 600;
+}
+
 .logo img {
   max-width: 100%;
 }
