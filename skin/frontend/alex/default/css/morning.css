@@ -3333,6 +3333,8 @@ a.logo:hover {
 a.skip-link {
   text-decoration: none;
   background-color: #CB7857;
+  font-weight: 500;
+  color: white;
 }
 
 .skip-link:not(.skip-active):hover {
@@ -3520,6 +3522,7 @@ a.skip-link {
   .nav-primary li.level0 > a {
     text-transform: uppercase;
     padding-top: 10px;
+    font-weight: 500;
   }
 }
 /* ============================================ *
