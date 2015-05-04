@@ -3267,7 +3267,7 @@ body {
   opacity: 0.8;
 }
 
-.logo h1:hover {
+.logo h1 a:hover {
   margin-bottom: 5px;
   color: #AD5D3C;
   font-weight: 600;
