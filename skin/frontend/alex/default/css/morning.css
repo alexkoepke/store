@@ -3264,6 +3264,14 @@ body {
   color: #F5B382;
   font-weight: 600;
   text-align: left;
+  opacity: 0.8;
+}
+
+.logo h1:hover {
+  margin-bottom: 5px;
+  color: #F5B382;
+  font-weight: 600;
+  text-align: left;
 }
 
 .logo img {
