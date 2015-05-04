@@ -3506,7 +3506,7 @@ a.skip-link {
     /* Force visibility */
     position: absolute;
     top: 0px;
-    right: 222px;
+    right: 160px;
     border-bottom: none;
   }
 }
