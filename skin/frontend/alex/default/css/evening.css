@@ -3332,7 +3332,7 @@ a.logo:hover {
 
 a.skip-link {
   text-decoration: none;
-  background-color: #CB7857;
+  background-color: #CBA650;
   font-weight: 500;
   color: white;
 }
@@ -3451,7 +3451,7 @@ a.skip-link {
   a.skip-link {
     height: 55px;
     padding-top: 3.25px;
-    border-bottom: 10px solid #AD5D3C;
+    border-bottom: 10px solid #9C5A41;
   }
 }
 
