@@ -3264,14 +3264,14 @@ body {
   color: #AD5D3C;
   font-weight: 600;
   text-align: left;
-  opacity: 0.8;
 }
 
-.logo a h1:hover {
+a.logo:hover {
   margin-bottom: 5px;
   color: #AD5D3C;
   font-weight: 600;
   text-align: left;
+  opacity: 0.8;
   text-decoration: none;
 }
 
