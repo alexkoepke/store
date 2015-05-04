@@ -3257,6 +3257,7 @@ body {
   text-align: center;
   padding: 10px;
 }
+.logo h1 {margin-bottom: 0px;}
 .logo img {
   max-width: 100%;
 }
