@@ -10652,7 +10652,7 @@ div.calendar table td.button {
   text-transform: none;
 }
 
-@media only screen and (max-width: 770px) {
+@media only screen and (min-width: 771px) {
   .skip-account .icon,
   .skip-cart .icon { display: none; }
 }
