@@ -4027,7 +4027,8 @@ a.skip-link {
   clear: both;
   width: 100%;
   border-top: 1px solid #cccccc;
-  padding-top: 30px;
+  padding: 30px;
+  background-color: rgba(255, 255, 255, 0.85);
   /* -------------------------------------------- *
    * Social icons
    */
